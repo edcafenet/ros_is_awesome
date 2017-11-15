@@ -1,3 +1,4 @@
+#!/bin/bash
 cp -R ./ros_is_awesome/catkin_ws/src/ros_is_awesome_* ~/catkin_ws/src/
 cd ~/catkin_ws/
 catkin_make
