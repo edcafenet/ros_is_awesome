@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="ros_is_awesome_exercise_0" type="simple_publisher.py" name="simple_publisher" output="screen" />
+    <node pkg="ros_is_awesome_exercise_0" type="simple_subscriber.py" name="simple_subscriber" output="screen" />
+</launch>
