@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ros_is_awesome_exercise_2" type="service_server.py" name="MoveInSquareServiceServer"  output="screen">
+  </node>
+</launch>

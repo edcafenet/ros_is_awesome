@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="ros_is_awesome_exercise_1" type="avoid_wall.py" name="avoid_wall_node" output="screen" />
+</launch>

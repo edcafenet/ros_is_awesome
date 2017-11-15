@@ -1,0 +1,4 @@
+<launch>
+    <node name="robot_as" pkg="ros_is_awesome_exercise_3" type="action_server.py" output="screen">
+    </node>
+</launch>
